@@ -15,7 +15,7 @@ const Alert = props => {
 	}
 };
 Alert.propTypes = {
-	//color: PropTypes.string,
+	color: PropTypes.string,
 	text: PropTypes.string,
 	show: PropTypes.bool
 };
